@@ -1,3 +1,41 @@
-node_modules
+# =====================
+# General
+# =====================
 .env
-dist
+.env.*
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =====================
+# Python / Backend
+# =====================
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+# =====================
+# Node / Frontend
+# =====================
+node_modules/
+dist/
+build/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# =====================
+# IDE
+# =====================
+.vscode/
+.idea/
+
+# =====================
+# OS
+# =====================
+Thumbs.db
