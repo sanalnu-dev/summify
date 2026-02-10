@@ -1,0 +1,518 @@
+[
+  {
+    "overview": "Good morning everyone.",
+    "key_discussion_points": [
+      "Good morning everyone.",
+      "Let\u2019s start with a quick status update.",
+      "Last week we focused on finalizing the backend architecture and setting up the API routes."
+    ],
+    "highlights": [
+      "concerns",
+      "file",
+      "feedback",
+      "API",
+      "NLP"
+    ],
+    "decisions": [],
+    "action_items": [
+      {
+        "task": "John will finish integrating the NLP module into the processing route by Wednesday.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Once that is done, we should be able to test with longer transcripts.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "The team should review the UI and provide feedback by the end of the week.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "We agreed that for now we will rely on spaCy for basic NLP and defer LLM integration to a later phase.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "We need to decide whether to use a simple file-based storage or an in-memory approach.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "The team should also prepare a short explanation of the system architecture for the judges.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      }
+    ],
+    "metadata": {
+      "meeting_title": "Weekly Sync",
+      "processed_at": "2026-02-10T07:54:09.232115"
+    }
+  },
+  {
+    "overview": "No overview available.",
+    "key_discussion_points": [],
+    "highlights": [],
+    "decisions": [],
+    "action_items": [],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T07:58:51.736181"
+    }
+  },
+  {
+    "overview": "No overview available.",
+    "key_discussion_points": [],
+    "highlights": [],
+    "decisions": [],
+    "action_items": [],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T07:59:21.934311"
+    }
+  },
+  {
+    "overview": "No overview available.",
+    "key_discussion_points": [],
+    "highlights": [],
+    "decisions": [],
+    "action_items": [],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T07:59:34.352678"
+    }
+  },
+  {
+    "overview": "No overview available.",
+    "key_discussion_points": [],
+    "highlights": [],
+    "decisions": [],
+    "action_items": [],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T08:01:15.356424"
+    }
+  },
+  {
+    "overview": "No overview available.",
+    "key_discussion_points": [],
+    "highlights": [],
+    "decisions": [],
+    "action_items": [],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T08:08:23.801692"
+    }
+  },
+  {
+    "overview": "No overview available.",
+    "key_discussion_points": [],
+    "highlights": [],
+    "decisions": [],
+    "action_items": [],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T08:18:49.427871"
+    }
+  },
+  {
+    "overview": "Aman will look into the audio upload bug.",
+    "key_discussion_points": [
+      "Aman will look into the audio upload bug.",
+      "Riya will handle dashboard cleanup."
+    ],
+    "highlights": [
+      "upload",
+      "Aman",
+      "bug",
+      "Riya",
+      "cleanup"
+    ],
+    "decisions": [],
+    "action_items": [
+      {
+        "task": "Aman will look into the audio upload bug.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Riya will handle dashboard cleanup.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      }
+    ],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T08:22:32.463297"
+    }
+  },
+  {
+    "overview": "Okay so today\u2019s discussion was a bit all over the place.",
+    "key_discussion_points": [
+      "Okay so today\u2019s discussion was a bit all over the place.",
+      "We started by talking about the login and dashboard modules.",
+      "The login works fine but the dashboard still feels cluttered."
+    ],
+    "highlights": [
+      "place",
+      "help",
+      "additions",
+      "Tuesday",
+      "Aman"
+    ],
+    "decisions": [],
+    "action_items": [
+      {
+        "task": "Aman said he will look into it, though he might need help if it\u2019s related to memory usage.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "We also agreed that we should not touch the recommendation feature for now, since it\u2019s not critical for the demo.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      }
+    ],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T08:23:58.202343"
+    }
+  },
+  {
+    "overview": "Okay so today\u2019s discussion was a bit all over the place.",
+    "key_discussion_points": [
+      "Okay so today\u2019s discussion was a bit all over the place.",
+      "We started by talking about the login and dashboard modules.",
+      "The login works fine but the dashboard still feels cluttered."
+    ],
+    "highlights": [
+      "place",
+      "help",
+      "additions",
+      "Tuesday",
+      "Aman"
+    ],
+    "decisions": [],
+    "action_items": [
+      {
+        "task": "Aman said he will look into it, though he might need help if it\u2019s related to memory usage.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "We also agreed that we should not touch the recommendation feature for now, since it\u2019s not critical for the demo.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      }
+    ],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T08:41:07.311475"
+    }
+  },
+  {
+    "overview": "Meeting of CTAS County Commission - Transcript of Dialogue\n\nChairman Wormsley (at the proper time and place, after taking the chair and striking the gavel on the table): This meeting of the CTAS County Commission will come to order.",
+    "key_discussion_points": [
+      "Meeting of CTAS County Commission - Transcript of Dialogue\n\nChairman Wormsley (at the proper time and place, after taking the chair and striking the gavel on the table): This meeting of the CTAS County Commission will come to order.",
+      "Clerk please call the role.",
+      "(Ensure that a majority of the members are present.)"
+    ],
+    "highlights": [
+      "place",
+      "additions",
+      "correction",
+      "noon",
+      "read"
+    ],
+    "decisions": [],
+    "action_items": [
+      {
+        "task": "Meeting of CTAS County Commission - Transcript of Dialogue\n\nChairman Wormsley (at the proper time and place, after taking the chair and striking the gavel on the table): This meeting of the CTAS County Commission will come to order.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "I will entertain a motion that the agenda be approved.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "If there are no objections, the minutes will be corrected to include the name of Commissioner McCroskey.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Will the clerk please make this correction.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Seeing none, without objection the minutes will stand approved as read.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Will the clerk please take the vote.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "We will now take up old business.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Commissioner Hailey: There will be a meeting of the Budget Committee on Tuesday, July 16 at noon.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Chairman Wormsley: The next meeting will be Monday, August 19 at 7 p.m.\n\nCommissioner Carmical: There will be a chili supper at County Elementary School on August 16 at 6:30 p.m.\n\nCommissioner Austin: Move adjournment.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      }
+    ],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T08:51:26.147059"
+    }
+  },
+  {
+    "overview": "Meeting of CTAS County Commission - Transcript of Dialogue\n\nChairman Wormsley (at the proper time and place, after taking the chair and striking the gavel on the table): This meeting of the CTAS County Commission will come to order.",
+    "key_discussion_points": [
+      "Meeting of CTAS County Commission - Transcript of Dialogue\n\nChairman Wormsley (at the proper time and place, after taking the chair and striking the gavel on the table): This meeting of the CTAS County Commission will come to order.",
+      "Clerk please call the role.",
+      "(Ensure that a majority of the members are present.)"
+    ],
+    "highlights": [
+      "place",
+      "additions",
+      "correction",
+      "noon",
+      "read"
+    ],
+    "decisions": [],
+    "action_items": [
+      {
+        "task": "Meeting of CTAS County Commission - Transcript of Dialogue\n\nChairman Wormsley (at the proper time and place, after taking the chair and striking the gavel on the table): This meeting of the CTAS County Commission will come to order.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "I will entertain a motion that the agenda be approved.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "If there are no objections, the minutes will be corrected to include the name of Commissioner McCroskey.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Will the clerk please make this correction.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Seeing none, without objection the minutes will stand approved as read.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Will the clerk please take the vote.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "We will now take up old business.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Commissioner Hailey: There will be a meeting of the Budget Committee on Tuesday, July 16 at noon.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Chairman Wormsley: The next meeting will be Monday, August 19 at 7 p.m.\n\nCommissioner Carmical: There will be a chili supper at County Elementary School on August 16 at 6:30 p.m.\n\nCommissioner Austin: Move adjournment.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      }
+    ],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T08:52:19.820153"
+    }
+  },
+  {
+    "overview": "Meeting of CTAS County Commission - Transcript of Dialogue\n\nChairman Wormsley (at the proper time and place, after taking the chair and striking the gavel on the table): This meeting of the CTAS County Commission will come to order.",
+    "key_discussion_points": [
+      "Meeting of CTAS County Commission - Transcript of Dialogue\n\nChairman Wormsley (at the proper time and place, after taking the chair and striking the gavel on the table): This meeting of the CTAS County Commission will come to order.",
+      "Clerk please call the role.",
+      "(Ensure that a majority of the members are present.)"
+    ],
+    "highlights": [
+      "percent",
+      "increase",
+      "role",
+      "correction",
+      "meeting"
+    ],
+    "decisions": [],
+    "action_items": [
+      {
+        "task": "Meeting of CTAS County Commission - Transcript of Dialogue\n\nChairman Wormsley (at the proper time and place, after taking the chair and striking the gavel on the table): This meeting of the CTAS County Commission will come to order.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "I will entertain a motion that the agenda be approved.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "If there are no objections, the minutes will be corrected to include the name of Commissioner McCroskey.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Will the clerk please make this correction.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Seeing none, without objection the minutes will stand approved as read.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Will the clerk please take the vote.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "We will now take up old business.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Commissioner Hailey: There will be a meeting of the Budget Committee on Tuesday, July 16 at noon.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      },
+      {
+        "task": "Chairman Wormsley: The next meeting will be Monday, August 19 at 7 p.m.\n\nCommissioner Carmical: There will be a chili supper at County Elementary School on August 16 at 6:30 p.m.\n\nCommissioner Austin: Move adjournment.",
+        "owner": "Unassigned",
+        "role": "Unassigned",
+        "priority": "Medium",
+        "deadline": null
+      }
+    ],
+    "metadata": {
+      "meeting_title": "Untitled Meeting",
+      "processed_at": "2026-02-10T09:09:57.590932"
+    }
+  },
+  {
+    "title": "Weekly Team Sync",
+    "summary": "## Meeting Summary\n\nThe Weekly Team Sync focused on reviewing progress and assigning tasks for the upcoming week. Key updates include:\n\n- Backend integration is scheduled for completion by Wednesday.\n- Application testing with longer transcripts will be performed and any issues reported.\n- Gemma has been designated as the default model for the demo.\n- Frontend development is targeted for completion by Friday.\n\n\n## Action Items\n\n- John: Complete backend integration by Wednesday.\n- Sara: Test the application with longer transcripts and report any issues.\n\n\n## Decisions Made\n\n- The team finalized the selection of Gemma as the default model for the demo.",
+    "action_items": [
+      "John will complete the backend integration by Wednesday.",
+      "Sara will test the application with longer transcripts and report any issues."
+    ]
+  },
+  {
+    "title": "Weekly Sync",
+    "summary": "## Meeting Summary\n\n**Weekly Sync**\n\n**Date:** [Date of meeting]\n\n**Attendees:** [List of attendees]\n\n**Summary:**\n\nThe Weekly Sync focused on finalizing the backend architecture and setting up API routes. The backend structure is stable, and the /process endpoint is responding correctly. John will integrate the NLP module by Wednesday for testing with longer transcripts. The initial landing page design is complete, and feedback is requested by the end of the week. Performance concerns for large transcripts were discussed, with spaCy being utilized for now and LLM integration deferred. The team will determine whether to use file-based or in-memory storage for previous summaries. A short system architecture explanation is required for the judges.\n\n**Action Items:**\n\n- John: Complete NLP module integration by Wednesday.\n- Team: Review initial landing page design and provide feedback by the end of the week.\n\n**Decisions Made:**\n\n- Reliance on spaCy for basic NLP until LLM integration is scheduled for a later phase.",
+    "action_items": [
+      "John will finish integrating the NLP module into the processing route by Wednesday.",
+      "We agreed that for now we will rely on spaCy for basic NLP and defer LLM integration to a later phase."
+    ]
+  },
+  {
+    "title": "Weekly Sync",
+    "summary": "## Meeting Summary: Weekly Sync\n\n**1. Overview**\n\nThe Weekly Sync focused on finalizing backend architecture, setting up API routes, and addressing performance concerns related to large transcripts.\n\n**2. Key Action Items**\n\n- John will finish integrating the NLP module into the processing route by Wednesday.\n- The team agreed to rely on spaCy for basic NLP and defer LLM integration to a later phase.\n\n**3. Decisions Made**\n\n- Decision on storage solution for previous meeting summaries still pending.\n\n**4. Important Highlights**\n\n- Backend architecture is stable and API routes are responding correctly.\n- Initial landing page design completed.\n- Performance concerns for large transcripts addressed by opting for spaCy for now.\n- Short explanation of system architecture needed for judges.\n\n**Additional Notes:**\n\n- Next meeting scheduled for Friday at 4 PM.",
+    "action_items": [
+      "John will finish integrating the NLP module into the processing route by Wednesday.",
+      "We agreed that for now we will rely on spaCy for basic NLP and defer LLM integration to a later phase."
+    ]
+  }
+]

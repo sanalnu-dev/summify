@@ -8,6 +8,8 @@ import { MeetingsSidebar } from "./components/MeetingsSidebar";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./components/ui/tabs";
 import React from "react";
 
+
+
 const mockMeetings = [
   {
     id: "1",

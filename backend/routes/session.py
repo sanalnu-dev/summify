@@ -15,3 +15,4 @@ def start_session(request: SessionRequest):
         "user_type": request.mode,
         "created_at": datetime.utcnow().isoformat()
     }
+    
