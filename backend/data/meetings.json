@@ -514,5 +514,65 @@
       "John will finish integrating the NLP module into the processing route by Wednesday.",
       "We agreed that for now we will rely on spaCy for basic NLP and defer LLM integration to a later phase."
     ]
+  },
+  {
+    "title": "Weekly Sync",
+    "summary": "## Weekly Sync Meeting Minutes\n\n**1. Overview**\n\nThe Weekly Sync meeting focused on finalizing the backend architecture, setting up API routes, and addressing performance concerns for large transcripts.\n\n**2. Key Action Items**\n\n- John will finish integrating the NLP module into the processing route by Wednesday.\n- The team agreed to rely on spaCy for basic NLP and defer LLM integration to a later phase.\n\n**3. Decisions Made**\n\n- Decision on storage method for previous meeting summaries: To be determined (file-based vs. in-memory).\n\n**4. Important Highlights**\n\n- Backend architecture is stable and API routes are responding correctly.\n- Initial landing page design completed.\n- Performance concerns for large transcripts addressed by deferring LLM integration.\n- Need for short explanation of system architecture for judges.",
+    "action_items": [
+      "John will finish integrating the NLP module into the processing route by Wednesday.",
+      "We agreed that for now we will rely on spaCy for basic NLP and defer LLM integration to a later phase."
+    ]
+  },
+  {
+    "title": "Untitled Meeting",
+    "summary": "## Meeting Summary: Untitled Meeting\n\n**Short Overview:**\n\nThe team reviewed progress from the previous week, aligned on priorities, and set deadlines for upcoming tasks. Key highlights include the completion of the backend API and ongoing frontend integration. Performance concerns were noted and a temporary workaround was agreed upon for authentication endpoint delays from a third-party service.\n\n**Key Action Items:**\n\n- **Rahul:** Complete frontend integration by Thursday.\n- **Priya:** Optimize API performance by Friday.\n- **Mei:** Implement the workaround and document associated risks.\n- **Alex:** Update stakeholders with the revised timeline.\n\n**Decisions Made:**\n\n- Implement a temporary workaround for authentication endpoint delays from the third-party service.\n- Revisit frontend integration in the next sprint.\n\n**Important Highlights:**\n\n- The backend API is complete and functional.\n- Frontend integration is nearing completion.\n- Performance optimization and authentication endpoint workaround are ongoing tasks.\n- Updated timeline will be shared with stakeholders.",
+    "action_items": [
+      "Good morning everyone this meeting starts at 10 am with Alex welcoming the team and stating the goal is to review last week\u2019s progress align on priorities and set deadlines Priya reports that the backend API is complete and passed internal testing while noting a minor performance issue under heavy load Rahul adds that the frontend integration is nearly done but needs the final authentication endpoint Alex asks about blockers and Mei mentions delays from the third party service and suggests a temporary workaround the group agrees to proceed with the workaround and revisit the integration next sprint Alex summarizes action items Rahul will finish frontend integration by Thursday Priya will optimize the API performance by Friday Mei will implement the workaround and document risks and Alex will update stakeholders with the revised timeline the meeting ends at 10:35 am with everyone aligned on next steps"
+    ]
+  },
+  {
+    "title": "Untitled Meeting",
+    "summary": "## Meeting Summary:\n\nThe team reviewed progress from last week and aligned on priorities for the current sprint. The backend API is complete and passes internal testing, but performance under heavy load requires optimization. Frontend integration is nearing completion, but requires the final authentication endpoint.\n\n## Action Items:\n\n- Rahul: Finish frontend integration by Thursday\n- Priya: Optimize API performance by Friday\n- Mei: Implement temporary workaround and document risks\n- Alex: Update stakeholders with revised timeline\n\n\n## Key Decisions:\n\n- Agreed to implement a temporary workaround for authentication endpoint delays.\n\n\n## Highlights:\n\n- Potential performance issues identified with the backend API.\n- Delays in third-party service causing authentication endpoint holdup.\n- Temporary workaround proposed to enable further frontend integration.",
+    "action_items": [
+      "Good morning everyone this meeting starts at 10 am with Alex welcoming the team and stating the goal is to review last week\u2019s progress align on priorities and set deadlines Priya reports that the backend API is complete and passed internal testing while noting a minor performance issue under heavy load Rahul adds that the frontend integration is nearly done but needs the final authentication endpoint Alex asks about blockers and Mei mentions delays from the third party service and suggests a temporary workaround the group agrees to proceed with the workaround and revisit the integration next sprint Alex summarizes action items Rahul will finish frontend integration by Thursday Priya will optimize the API performance by Friday Mei will implement the workaround and document risks and Alex will update stakeholders with the revised timeline the meeting ends at 10:35 am with everyone aligned on next steps"
+    ]
+  },
+  {
+    "title": "Weekly Sync",
+    "summary": "**Short Summary:**\n\nThe Weekly Sync focused on backend architecture completion, frontend design, and performance optimization discussions. The NLP module is being integrated into the processing route, while large transcript performance concerns led to the deferral of large language model integration.\n\n**Action Items:**\n\n- John to finish integrating the NLP module by Wednesday.\n- Team to review the initial landing page design and provide feedback by the end of the week.\n\n**Key Decisions:**\n\n- None\n\n**Highlights:**\n\n- Backend architecture is stable and API routes are responding correctly.\n- Initial landing page design completed.\n- Performance concerns for large transcripts addressed by relying on spaCy for now.\n- Need to determine storage method for previous meeting summaries.\n- Team to prepare a short explanation of the system architecture for the judges.",
+    "action_items": [
+      "John will finish integrating the NLP module into the processing route by Wednesday.",
+      "We agreed that for now we will rely on spaCy for basic NLP and defer LLM integration to a later phase."
+    ]
+  },
+  {
+    "title": "Weekly Sync",
+    "summary": "## Meeting Summary: Weekly Sync\n\n**Short Summary:** The team finalized backend architecture, completed initial landing page design, addressed performance concerns for large transcripts, and discussed storage solutions for previous summaries.\n\n**Action Items:**\n- John: Integrate NLP module into processing route by Wednesday.\n- Team: Review UI and provide feedback by end of week.\n\n**Key Decisions:**\n- None\n\n**Highlights:**\n- Stable backend architecture with functional API routes.\n- Initial landing page design completed.\n- Performance optimization for large transcripts discussed.\n- Storage solution for previous summaries to be determined.\n- Explanation of system architecture to be prepared for judges.",
+    "action_items": [
+      "John will finish integrating the NLP module into the processing route by Wednesday.",
+      "We agreed that for now we will rely on spaCy for basic NLP and defer LLM integration to a later phase."
+    ]
+  },
+  {
+    "title": "Weekly Sync",
+    "overview": "The team finalized backend architecture and API routes, and completed initial landing page design. Performance concerns for large transcripts were discussed, with spaCy being utilized for basic NLP initially.",
+    "key_points": [
+      "Backend architecture finalized",
+      "NLP module integration in progress",
+      "Initial landing page design completed",
+      "Performance concerns for large transcripts discussed"
+    ],
+    "decisions": [
+      "Reliance on spaCy for basic NLP",
+      "Deferring LLM integration to a later phase"
+    ],
+    "action_items": [
+      {
+        "task": "John to finish integrating NLP module by Wednesday.",
+        "owner": "John",
+        "priority": "High"
+      }
+    ],
+    "highlights": []
   }
 ]
